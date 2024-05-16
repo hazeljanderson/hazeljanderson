@@ -5,6 +5,5 @@
 
 ![Overview](https://raw.githubusercontent.com/hazeljanderson/github-stats/blob/master/generated/overview.svg#gh-light-mode-only)
 ![Top Languages](https://raw.githubusercontent.com/hazeljanderson/github-stats/blob/master/generated/languages.svg#gh-light-mode-only)
-![Overview](https://github-readme-stats.vercel.app/api?username=hazeljanderson&count_private=true)
+![Overview](https://github-readme-stats.vercel.app/api?username=hazeljanderson&count_private=true\&rank_icon=percentile)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazeljanderson)
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=hazeljanderson&)
