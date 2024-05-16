@@ -5,5 +5,5 @@
 
 ![Overview](https://raw.githubusercontent.com/hazeljanderson/github-stats/blob/master/generated/overview.svg#gh-light-mode-only)
 ![Top Languages](https://raw.githubusercontent.com/hazeljanderson/github-stats/blob/master/generated/languages.svg#gh-light-mode-only)
-![Overview](https://github-readme-stats.vercel.app/api?username=hazeljanderson&count_private=true\&rank_icon=percentile)
+![Overview](https://github-readme-stats.vercel.app/api?username=hazeljanderson&count_private=true\&rank_icon=percentile\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazeljanderson)
