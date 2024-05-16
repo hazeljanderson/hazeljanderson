@@ -3,7 +3,5 @@
 - 🌱 I’m currently a M.S. student at Michigan State University in the Department of Integrative Biology and the Ecology, Evolution, & Behavior Program.
 - 📫 You can contact me through my website www.hazeljanderson.com
 
-<!---
-hazeljanderson/hazeljanderson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://raw.githubusercontent.com/hazeljanderson/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/hazeljanderson/github-stats/master/generated/languages.svg#gh-light-mode-only)
