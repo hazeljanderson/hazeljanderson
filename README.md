@@ -3,5 +3,5 @@
 - 🌱 I’m currently a M.S. student at Michigan State University in the Department of Integrative Biology and the Ecology, Evolution, & Behavior Program.
 - 📫 You can contact me through my website www.hazeljanderson.com
 
-![](https://raw.githubusercontent.com/hazeljanderson/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/hazeljanderson/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/hazeljanderson/github-stats/blob/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/hazeljanderson/github-stats/blob/master/generated/languages.svg#gh-light-mode-only)
